@@ -73,7 +73,7 @@ I regularly take notes to better understand the concepts taught in the course. Y
 
 - Clone this repository:
   ```bash
-  git clone https://github.com/yourusername/data-science-learning.git
+  git clone https://github.com/mrravipandee/Machine-Learning-Enthusiast.git
   ```
 - Explore the folders to find resources, notebooks, and projects.
 - Feel free to fork and contribute by adding your own projects or resources!
@@ -82,8 +82,8 @@ I regularly take notes to better understand the concepts taught in the course. Y
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
-- GitHub: [yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [mrravipandee](https://github.com/mrravipandee)
+- LinkedIn: [Ravi Pandey](https://linkedin.com/in/mrravipandee)
 
 ---
 
